@@ -206,4 +206,5 @@ Under these conditions:
 
 [![Made with Vue.js](https://img.shields.io/badge/Made%20with-Vue.js-41B883.svg)](https://vuejs.org/)
 [![Uses MySQL](https://img.shields.io/badge/Uses-MySQL-4479A1.svg)](https://www.mysql.com/)
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
+
