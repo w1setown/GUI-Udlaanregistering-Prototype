@@ -192,7 +192,15 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) - see the [LICENSE](LICENSE) file for details.
+
+This means you are free to:
+- Share and distribute the material
+- Adapt and build upon the material
+
+Under these conditions:
+- You must provide appropriate attribution
+- You may not use the material for commercial purposes
 
 ---
 
