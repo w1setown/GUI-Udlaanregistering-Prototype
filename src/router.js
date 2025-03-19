@@ -1,13 +1,18 @@
 import { createRouter, createWebHistory } from 'vue-router';
-import Home from './components/AppHome.vue'; // Import your components
+import AddUser from './components/AppAddUser.vue';
+import ShowUser from './components/ShowUser.vue';
 
 const routes = [
   {
     path: '/',
-    name: 'Home',
-    component: Home // Use the imported component
+    name: 'AddUser',
+    component: AddUser 
   },
-  // Add more routes here as needed
+  {
+    path: '/User',
+    name: 'ShowUser',
+    component: ShowUser 
+  },
 ];
 
 const router = createRouter({
